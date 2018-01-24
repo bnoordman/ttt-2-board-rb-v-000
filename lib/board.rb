@@ -1,5 +1,5 @@
 # Define the variable board below.
-board = ["X", "O", "X", "O", "X", "O", "X", "O", "X"]
+board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 board[0]
 board[1]
 board[2]
